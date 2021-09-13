@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@convergence/convergence": "^1.0.0-rc.12",
+    "@convergence/jwt-util": "^0.2.0",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
